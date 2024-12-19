@@ -19,9 +19,10 @@ recoma96(하정현)의 토이 프로젝트 아카이브 입니다.
 
 완성이 아닌 개발 진행중인 프로젝트 입니다.
 
-|프로젝트명|설명|리포지토리 공개 여부|
+|프로젝트명|설명|기술스택|
 |---|---|---|
-|trailine|django 기반의 등산 및 트레킹 정보를 조회하고 직접 정보에 기여할 수 있는 웹, 앱 서비스|비공개|
+|trailine|django 기반의 등산 및 트레킹 정보를 조회하고 직접 정보에 기여할 수 있는 웹, 앱 서비스|FastAPI, SQLite, MySQL|
+|minidrive|설치형 클라우드 스토리지 서비스. 2022년에 개발된 [cloudmodular](https://github.com/sweetcase-production/cloudmodular)의 후속 프로젝트|DRF(+Jinja2), Database(PostgreSQL or MySQL), Mobile(React Native or Kotlin(Android Only))|
 
 
 ## Terminated (종료)
