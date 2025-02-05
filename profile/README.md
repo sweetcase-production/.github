@@ -20,7 +20,7 @@ recoma96(하정현)의 토이 프로젝트 아카이브 입니다.
 
 |프로젝트명|설명|기술스택|
 |---|---|---|
-|traildata-api|등산을 포함한 하이킹 루트 데이터를 분석 및 조회하는 API로 trailine 프로젝트의 핵심 요소 입니다.|fastapi, postgresql|
+|traildata|등산을 포함한 하이킹 루트 데이터를 분석 및 조회하는 API로 trailine 프로젝트의 핵심 요소 입니다.|fastapi, postgresql|
 |trailine|django 기반의 등산 및 트레킹 정보를 조회하고 직접 정보에 기여할 수 있는 웹, 앱 서비스|DRF, React, Database(PostgreSQL or MySQL), Mobile(React Native or Kotlin(Android Only))|
 |minidrive|설치형 클라우드 스토리지 서비스. 2022년에 개발된 [cloudmodular](https://github.com/sweetcase-production/cloudmodular)의 후속 프로젝트|FastAPI(+Jinja2), SQLite, MySQL|
 
