@@ -20,7 +20,7 @@ recoma96(하정현)의 토이 프로젝트 아카이브 입니다.
 
 |프로젝트명|설명|기술스택|
 |---|---|---|
-|microcloudchip|cloudmodular 후속 프로젝트|fastapi, reactjs|
+|microcloudchip|cloudmodular 후속 프로젝트|fastapi, tauri|
 
 
 ## Terminated (종료)
