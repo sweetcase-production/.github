@@ -20,7 +20,7 @@ recoma96(하정현)의 토이 프로젝트 아카이브 입니다.
 
 |프로젝트명|설명|기술스택|
 |---|---|---|
-|microcloudchip|cloudmodular 후속 프로젝트|fastapi, tauri|
+|trailine|등산 및 트레킹 정보를 제공하는 웹 프로젝트|![django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=green) ![react](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)|
 
 
 ## Terminated (종료)
